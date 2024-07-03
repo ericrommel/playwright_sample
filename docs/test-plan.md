@@ -34,10 +34,10 @@ Error handling for adding a new computer
 
 ## Test Execution
 
-- **Tools:** Cypress with JavaScript/TypeScript.
+- **Tools:** Playwright with JavaScript/TypeScript.
 - **Environment:** The demo application available at <https://computer-database.gatling.io/computers>.
 - **Test Data:** Both valid and invalid test data will be used to cover different scenarios.
-- **Execution Steps:** Run the automated test scripts using Cypress and verify the results against expected outcomes.
+- **Execution Steps:** Run the automated test scripts using Playright and verify the results against expected outcomes.
 
 ## Test Reporting
 

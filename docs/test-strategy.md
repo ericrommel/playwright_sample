@@ -4,7 +4,7 @@
 
 The project involves writing automated tests for the demo application available at <https://computer-database.gatling.io/computers>.
 The primary focus is on testing the functionality of adding a new computer to the database. The tests will be written using
-Cypress and JavaScript, with preference given to TypeScript. The exercise is expected to be completed within a duration of 3 to 5 hours.
+Playwright and JavaScript, with preference given to TypeScript. The exercise is expected to be completed within a duration of 3 to 5 hours.
 
 ## Objectives
 
@@ -21,7 +21,7 @@ positive and negative scenarios, covering various input combinations, alert mess
 
 1. **Scenario Identification:** Identify at least two scenarios for automation based on the functionality requirements.
 2. **Test Case Design:** Design test cases to cover basic and edge cases for each scenario, including alert message verification and database persistence checks.
-3. **Test Script Development:** Develop test scripts using Cypress and JavaScript, with a preference for TypeScript.
+3. **Test Script Development:** Develop test scripts using Playwright and JavaScript, with a preference for TypeScript.
 4. **Execution and Validation:** Execute the tests and validate the functionality against expected outcomes.
 5. **Reporting and Documentation:** Document test results, findings, and any issues encountered during the testing process.
 
@@ -32,7 +32,7 @@ positive and negative scenarios, covering various input combinations, alert mess
 
 ## Deliverables
 
-- Automated test scripts written in Cypress.
+- Automated test scripts written in Playwright.
 - A GitHub repository containing the solution.
 - Descriptive commit messages providing a clear history of work.
 - README file with instructions on running the tests.

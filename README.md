@@ -49,6 +49,7 @@ Run the tests:
   npm run test:e2e
   ```
 
+
 ### Report
 
 After a test execution, you can see the report running the command below:
@@ -60,7 +61,8 @@ After a test execution, you can see the report running the command below:
 
 ### CI/CD
 
-This project uses GitHub Actions as a sample CI in [GitHub](https://github.com/ericrommel/hostfully-cypress/actions/workflows/main.yml)
+This project uses GitHub Actions as a sample CI in [GitHub](https://github.com/ericrommel/playwright_sample/actions/workflows/playwright.yml)
+
 
 ### Deliverables
 

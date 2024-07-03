@@ -1,3 +1,5 @@
+[![Playwright CI](https://github.com/ericrommel/playwright_sample/actions/workflows/playwright.yml/badge.svg)](https://github.com/ericrommel/playwright_sample/actions/)
+
 # Playwright Sample Exercise
 
 
